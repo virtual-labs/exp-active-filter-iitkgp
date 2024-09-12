@@ -38,23 +38,23 @@
       
         {
           "unit-type": "task",
-          "label": " Simulation",
+          "label": "Active Low Pass Filter",
           "content-type": "simulation",
-          "source": "active_lpf.html",
+          "source": "simulation/active_lpf.html",
           "target": "active_lpf.html"
         },
         {
           "unit-type": "task",
-          "label": " Simulation",
+          "label": "Active High Pass Filter",
           "content-type": "simulation",
-          "source": "active_hpf.html",
+          "source": "simulation/active_hpf.html",
           "target": "active_hpf.html"
         },
         {
           "unit-type": "task",
-          "label": " Simulation",
+          "label": "Active Band Pass Filter",
           "content-type": "simulation",
-          "source": "active_bandpass.html",
+          "source": "simulation/active_bandpass.html",
           "target": "active_bandpass.html"
         }
 
