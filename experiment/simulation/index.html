@@ -5,9 +5,18 @@
     <link rel="stylesheet" href="./css/main.css">
 </head>
 <body>
-		<!-- Your code goes here-->
+	<div class="content" id="experiment-article-section-5-content" style="position:relative;top:-22px;width:500px;height:410px;left:210px;">
 
-	<!-- Add JS at the bottom of HTML file --> 
+		<!--p style="text-align: justify; padding-bottom: 20px">
+			Simulator for the Experiment
+		</p-->
+		
+
+		<input type="button" onclick="window.open('./active_lpf.html', '_blank');" value="Active Low Pass Filter" style="position:absolute; top:70px;  right:110px;"/><!--opens in new tab-->
+		<input type="button" onclick="window.open('./active_hpf.html', '_blank');" value="Active High Pass Filter" style="position:absolute; top:120px;  right:110px;"/><!--opens in new tab-->
+		<input type="button" onclick="window.open('./active_bandpass.html', '_blank');" target="_blank" value="Active Band Pass Filter" style="position:absolute; top:170px; right:110px;" />
+
+	</div>
         <script src="./js/main.js"></script>
 </body>
 </html>
