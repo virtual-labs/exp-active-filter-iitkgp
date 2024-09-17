@@ -1,13 +1,13 @@
-### Subject Matter Expert
+## Subject Matter Expert
 <b>Name | <b> **Prof. C.S.Kumar**
 :--|:--|
 <b> Institute | <b>  **Indian Institute of Technology Kharagpur**
 <b> Email id|     <b>  **kumar@mech.iitkgp.ac.in**
-<b> Department |  **Department of Mechanical Engineering **
+<b> Department |  **Department of Mechanical Engineering**
 <b>Webpage| <b> [http://facweb.iitkgp.ac.in/~cskumar/](http://facweb.iitkgp.ac.in/~cskumar/)
 
 
-### Contributors List
+## Contributors List
 
 SrNo | Name | Developer and Integration Engineer | Department| Institute 
 :--|:--|:--|:--|:--|
