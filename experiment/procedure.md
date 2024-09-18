@@ -18,7 +18,7 @@ L1-L8, L3-L4 or L4-L5, L3-L5, L6-L10 or L6-L9, L9-L10, L7-L13, L2-L12, L11-L12.(
 
 <div align="center">
 <img src="images/lowpass_prc.png" width="50%">
-<p>Figure 1</p>
+<p>Fig 1: Active Low Pass Filter</p>
 </div>
 
 - **Active High Pass Filter**
@@ -39,7 +39,7 @@ L1-L8, L3-L4 or L4-L5, L3-L5, L6-L10 or L6-L9, L9-L10, L7-L13, L2-L12, L11-L12.(
 
 <div align="center">
 <img src="images/highpass_prc.png" width="50%">
-<p>Figure 1</p>
+<p>Fig 2: Active High Pass Filter</p>
 </div>
 
 
@@ -63,5 +63,5 @@ L1-L10, L3-L12, L12-L14, L11-L13, L8-L13 or L8-L11, L4-L7, L4-L5 or L5-L7, L6-L9
 
 <div align="center">
 <img src="images/bandpass_prc.png" width="50%">
-<p>Figure 1</p>
+<p>Fig 3: Active Band Pass Filter</p>
 </div>
