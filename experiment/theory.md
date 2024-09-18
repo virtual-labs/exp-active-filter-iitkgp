@@ -29,7 +29,7 @@ $$ \frac{V_o}{V_i}= \frac{A_f}{\sqrt{1+(\frac{f}{f_h})^2}} $$
  
  $$ f_h=\frac{1}{2 \times \pi \times R_A \times C_A} $$ 
 
- Phase angle  (\(\phi\)) <br>
+ Phase angle  (ϕ) <br>
 &nbsp; $$ \phi = - atan(\frac{f}{f_h}) $$<br>
 
 We can choose the values of R<sub>f</sub> and R<sub>1</sub> suitably in order to obtain the desired gain at the output. Suppose, if we consider the resistance values of R<sub>f</sub> and R<sub>1</sub> as zero ohms and infinity ohms, then the above circuit will produce a unity gain low pass filter output.
@@ -44,13 +44,13 @@ The circuit diagram of an active high pass filter is shown in the following figu
 <p>Figure 2</p>
 </div>
 
-The electric network, which is connected to the non-inverting terminal of an op-amp is a passive high pass filter. So, the input of a non-inverting terminal of opamp is the output of passive high pass filter. The above circuit resembles a non-inverting amplifier. It is having the output of a passive high pass filter as an input to non-inverting terminal of op-amp. Hence, it produces an output, which is (1+\(\frac{R_f}{R_1}\))  times the input present at its non-inverting terminal.
+The electric network, which is connected to the non-inverting terminal of an op-amp is a passive high pass filter. So, the input of a non-inverting terminal of opamp is the output of passive high pass filter. The above circuit resembles a non-inverting amplifier. It is having the output of a passive high pass filter as an input to non-inverting terminal of op-amp. Hence, it produces an output, which is (1+R<sub>f</sub>/R<sub>1</sub>)  times the input present at its non-inverting terminal.
 
  &nbsp; $$ \frac{V_o}{V_i}= \frac{A_f \times \frac{f}{f_l}}{\sqrt{1+(\frac{f}{f_l})^2}} $$<br><br>
  where, $$ A_f=(1+\frac{R_f}{R_1}) $$ 
  $$ f_l=\frac{1}{2 \times \pi \times R_B \times C_B}$$ 
 
-Phase angle  $$ \phi $$<br>
+Phase angle  (ϕ)
 &nbsp;$$ \phi = atan(\frac{f}{f_l}) $$ <br>
 We can choose the values of R<sub>f</sub> and R<sub>1</sub> suitably in order to obtain the desired gain at the output. 
 Suppose, if we consider the resistance values of R<sub>f</sub> and R<sub>1</sub> as zero ohms and infinity ohms, then the above circuit will produce a unity gain high pass filter output. <br><br>

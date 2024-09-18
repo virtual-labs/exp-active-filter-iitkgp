@@ -68,7 +68,7 @@ function tabled(){
 	var rld2=document.getElementById("rload2").value* Math.pow(10,3);	
 	var passbandgain1=(1+rf1/r1); 
 	var passbandgain2=(1+rf2/r2); 
-	var totalpassbandgain=passbandgain1+passbandgain2;
+	var passbandgain=passbandgain1+passbandgain2;
 	var flow= 1 / (2 * 3.14 *rld1 * parseFloat(cld1));
 	var fhigh= 1 / (2 * 3.14 *rld2 * parseFloat(cld2));
 	
