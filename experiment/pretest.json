@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "A ________ filter rejects all frequencies within a specified band and passes all those outside this band.",
+      "question": "1. A ________ filter rejects all frequencies within a specified band and passes all those outside this band.",
       "answers": {
         "a": "Low Pass",
         "b": "High Pass",
@@ -14,7 +14,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "A low-pass filter has a cutoff frequency of 1.23 kHz. Determine the bandwidth of the filter.",
+      "question": "2. A low-pass filter has a cutoff frequency of 1.23 kHz. Determine the bandwidth of the filter.",
       "answers": {
         "a": "2.46 kHz",
         "b": "1.23 kHz",
@@ -26,7 +26,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Refer to the given figure. The roll-off of the circuit shown is about <br/><p style=\"text-align:center\"><img src=\"images/pre_quiz1.png \" style=\"width:350px;height:200px\"></p>",
+      "question": "3. Refer to the given figure. The roll-off of the circuit shown is about <br/><p style=\"text-align:center\"><img src=\"images/pre_quiz1.png \" style=\"width:350px;height:200px\"></p>",
       "answers": {
         "a": "40 dB/decade",
         "b": "60 dB/decade",
@@ -38,7 +38,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Refer to the given figure. The cutoff frequency of this filter is ________, and the circuit is known as a ________. <br/><p style=\"text-align:center\"><img src=\"images/pre_quiz2.png \" style=\"width:350px;height:200px\"></p>",
+      "question": "4. Refer to the given figure. The cutoff frequency of this filter is ________, and the circuit is known as a ________. <br/><p style=\"text-align:center\"><img src=\"images/pre_quiz2.png \" style=\"width:350px;height:200px\"></p>",
       "answers": {
         "a": "721 Hz, high-pass filter",
         "b": "721 Hz, band-pass filter",
@@ -50,7 +50,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "A ________ filter passes all frequencies within a band between a lower and an upper critical frequency and rejects all others outside this band.",
+      "question": "5. A ________ filter passes all frequencies within a band between a lower and an upper critical frequency and rejects all others outside this band.",
       "answers": {
         "a": "Low Pass",
         "b": "High Pass",
