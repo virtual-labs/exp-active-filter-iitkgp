@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "A ________ filter significantly attenuates all frequencies below fc and passes all frequencies above fc.",
+      "question": "1. A ________ filter significantly attenuates all frequencies below fc and passes all frequencies above fc.",
       "answers": {
         "a": "Low Pass",
         "b": "High Pass",
@@ -14,7 +14,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The gain of the multiple-feedback band-pass filter above is equal to which of the following? Assume C = C1 = C2 <br/><p style=\"text-align:center\"><img src=\"images/post_quiz1.png \" style=\"width:350px;height:200px\"></p>",
+      "question": "2. The gain of the multiple-feedback band-pass filter above is equal to which of the following? Assume C = C1 = C2 <br/><p style=\"text-align:center\"><img src=\"images/post_quiz1.png \" style=\"width:350px;height:200px\"></p>",
       "answers": {
         "a": "A0 = R1 / R2",
         "b": "A0 = R2 / 2 R1",
@@ -26,7 +26,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "The bandwidth in a ________ filter equals the critical frequency.",
+      "question": "3. The bandwidth in a ________ filter equals the critical frequency.",
       "answers": {
         "a": "Low Pass",
         "b": "High Pass",
@@ -38,7 +38,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Refer to the given figure. This circuit is known as a ________ filter, and the fc is ________. <br/><p style=\"text-align:center\"><img src=\"images/post_quiz2.png \" style=\"width:350px;height:200px\"></p>",
+      "question": "4. Refer to the given figure. This circuit is known as a ________ filter, and the fc is ________. <br/><p style=\"text-align:center\"><img src=\"images/post_quiz2.png \" style=\"width:350px;height:200px\"></p>",
       "answers": {
         "a": "high-pass, 1.59 kHz",
         "b": "band-pass, 15.9 kHz",
@@ -50,7 +50,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Refer to the given figure. The roll-off of this filter is about <br/><p style=\"text-align:center\"><img src=\"images/post_quiz3.png \" style=\"width:350px;height:200px\"></p>",
+      "question": "5. Refer to the given figure. The roll-off of this filter is about <br/><p style=\"text-align:center\"><img src=\"images/post_quiz3.png \" style=\"width:350px;height:200px\"></p>",
       "answers": {
         "a": "40 dB/decade",
         "b": "60 dB/decade",
