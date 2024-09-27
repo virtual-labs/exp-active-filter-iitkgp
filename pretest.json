@@ -1,0 +1,65 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "1. A ________ filter rejects all frequencies within a specified band and passes all those outside this band.",
+      "answers": {
+        "a": "Low Pass",
+        "b": "High Pass",
+        "c": "Band Stop",
+        "d": "Band Pass"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "2. A low-pass filter has a cutoff frequency of 1.23 kHz. Determine the bandwidth of the filter.",
+      "answers": {
+        "a": "2.46 kHz",
+        "b": "1.23 kHz",
+        "c": "not enough information given",
+        "d": "644 hz"
+      },
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "3. Refer to the given figure. The roll-off of the circuit shown is about <br/><p style=\"text-align:center\"><img src=\"images/pre_quiz1.png \" style=\"width:350px;height:200px\"></p>",
+      "answers": {
+        "a": "40 dB/decade",
+        "b": "60 dB/decade",
+        "c": "20 dB/decade",
+        "d": "80 dB/decade"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "4. Refer to the given figure. The cutoff frequency of this filter is ________, and the circuit is known as a ________. <br/><p style=\"text-align:center\"><img src=\"images/pre_quiz2.png \" style=\"width:350px;height:200px\"></p>",
+      "answers": {
+        "a": "721 Hz, high-pass filter",
+        "b": "721 Hz, band-pass filter",
+        "c": "721 Hz, low-pass filter",
+        "d": "72 Hz, low-pass filter"
+      },
+      
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "5. A ________ filter passes all frequencies within a band between a lower and an upper critical frequency and rejects all others outside this band.",
+      "answers": {
+        "a": "Low Pass",
+        "b": "High Pass",
+        "c": "Band Stop",
+        "d": "Band Pass"
+      },
+      
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    }
+  ]
+}
