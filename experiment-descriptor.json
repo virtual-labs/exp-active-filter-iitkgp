@@ -1,0 +1,79 @@
+{
+  "unit-type": "lu",
+  "label": "",
+  "basedir": ".",
+  "LaTeXinMD": false,
+  "units": [
+    {
+      "unit-type": "aim"
+    },
+    
+    {
+      "target": "theory.html",
+      "source": "theory.md",
+      "label": "Theory",
+      "unit-type": "task",
+      "content-type": "text"
+    },
+   
+    {
+      "target": "pretest.html",
+      "source": "pretest.json",
+      "label": "Pretest",
+      "unit-type": "task",
+      "content-type": "assesment"
+    },
+    {
+      "target": "procedure.html",
+      "source": "procedure.md",
+      "label": "Procedure",
+      "unit-type": "task",
+      "content-type": "text"
+    },
+    {
+      "unit-type": "lu",
+      "label": "Simulation ",
+      "basedir": "simulation",
+      "units": [
+      
+        {
+          "unit-type": "task",
+          "label": "Active Low Pass Filter",
+          "content-type": "simulation",
+          "source": "simulation/active_lpf.html",
+          "target": "active_lpf.html"
+        },
+        {
+          "unit-type": "task",
+          "label": "Active High Pass Filter",
+          "content-type": "simulation",
+          "source": "simulation/active_hpf.html",
+          "target": "active_hpf.html"
+        },
+        {
+          "unit-type": "task",
+          "label": "Active Band Pass Filter",
+          "content-type": "simulation",
+          "source": "simulation/active_bandpass.html",
+          "target": "active_bandpass.html"
+        }
+
+      ]
+    },
+    
+    {
+      "target": "posttest.html",
+      "source": "posttest.json",
+      "label": "Posttest",
+      "unit-type": "task",
+      "content-type": "assesment"
+    },
+    {
+      "target": "references.html",
+      "source": "references.md",
+      "label": "References",
+      "unit-type": "task",
+      "content-type": "text"
+    }
+  ]
+}
