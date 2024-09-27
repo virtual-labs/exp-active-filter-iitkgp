@@ -1,10 +1,10 @@
 ## Introduction
 
 
-<b>Discipline | <b>Electronics and Communication and Engineering
+<b>Discipline | <b>Electronics and Communication Engineering
 :--|:--|
 <b> Lab | <b>  Analog Electronics Circuits Virtual Laboratory
-<b> Experiment|     <b> Active Filter
+<b> Experiment Name|     <b> Active Filter
 
 ### About the Experiment 
 
